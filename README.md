@@ -8,7 +8,7 @@ All great projects start with collaboration, and pull requests are the foundatio
 
 - **Who is this for**: Technical Developers, Non-Technical collaborators, students, managers.
 - **What you'll learn**:
-  - How to request a review and assign it.
+  - How to request a review and assign it...........
   - How to provide a review for someone else's work.
   - How to suggest changes and approve changes.
 - **What you'll build**: We'll review a pull request for a simple game.
